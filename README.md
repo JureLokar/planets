@@ -5,7 +5,7 @@ This is part of https://coderefinery.github.io/reproducible-python/.
 
 ## Purpose
 
-(...)
+The purpose of this file is to be decided.
 
 
 ## Requirements
