@@ -1,4 +1,4 @@
-# planets: A little example project we use in teachingaaaaa
+# planets: A little example project we use in
 
 This is part of https://coderefinery.github.io/reproducible-python/.
 
